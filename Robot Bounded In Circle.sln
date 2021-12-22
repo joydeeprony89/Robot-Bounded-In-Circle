@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot Bounded In Circle", "Robot Bounded In Circle\Robot Bounded In Circle.csproj", "{38E362CF-58F3-4CC8-A593-A6B0988E901C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38E362CF-58F3-4CC8-A593-A6B0988E901C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38E362CF-58F3-4CC8-A593-A6B0988E901C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38E362CF-58F3-4CC8-A593-A6B0988E901C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38E362CF-58F3-4CC8-A593-A6B0988E901C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26E2016-18B9-4571-9576-4A3E82FC70CC}
+	EndGlobalSection
+EndGlobal
